@@ -1,3 +1,4 @@
+'''A calculator  with functions'''
 import math
 
 def add(*numbers):

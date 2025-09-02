@@ -1,3 +1,5 @@
+'''This program is an age calculator with clear button and with interface
+it as user to input the year of birth and current year'''
 import tkinter as tk
 
 def clear():

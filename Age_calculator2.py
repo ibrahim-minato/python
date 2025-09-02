@@ -1,3 +1,5 @@
+'''This a naryto base age calculator it only ask for year of birth
+and it uses the current year '''
 import tkinter as tk
 from datetime import datetime
 from PIL import Image, ImageTk

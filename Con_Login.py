@@ -1,3 +1,6 @@
+'''This program ask for username and password if it is not in the json file
+ it will ask if you want to create a new account'''
+
 import json
 import os
 import sys

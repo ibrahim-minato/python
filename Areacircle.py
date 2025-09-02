@@ -1,3 +1,4 @@
+'''This program calculate the area of a circle and uses cerberus to prevent system crash'''
 from cerberus import Validator
 
 PI =3.14159

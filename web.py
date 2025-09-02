@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# encoding: utf-8
+
+'''this progrma calls the login.html file and
+ compared what the user input to what is here'''
+
 from flask import Flask, render_template, request, redirect, url_for
 
 app = Flask(__name__)

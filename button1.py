@@ -1,3 +1,4 @@
+'''This program is buttons '''
 import  tkinter as tk
 
 def press(n):
